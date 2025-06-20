@@ -1,0 +1,11 @@
+openai
+requests
+PyMuPDF
+python-dotenv
+gdown
+tiktoken
+beautifulsoup4
+feedparser
+selenium
+webdriver-manager
+markdownify
