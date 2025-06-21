@@ -45,6 +45,8 @@ It supports:
 ## Code Demo
 ### Part One
 - https://www.loom.com/share/79509d4d971145dc9cd675567eebc3cd?sid=29e11bd7-f9d2-477c-90c0-90b6e73a725b
+### Part Two
+- https://www.loom.com/share/ad526524a9af488e96c4abf1b28de742
 
 ## Questions
 1. What was your thinking process? Why did you build it the way you did?
