@@ -42,6 +42,10 @@ It supports:
 ## Functionality Demo
 - https://www.loom.com/share/000e9111b0e44964b6464ea2bf14eff8
 
+## Code Demo
+### Part One
+- https://www.loom.com/share/79509d4d971145dc9cd675567eebc3cd?sid=29e11bd7-f9d2-477c-90c0-90b6e73a725b
+
 ## Questions
 1. What was your thinking process? Why did you build it the way you did?
     After reading the google doc my first impressions of the problem were that I needed to make the web scraper as scalable and reusable as possible. Once I looked at the json format and required fields to return I wasn't quite sure what you expected for the user_id and team_id fields. After some thinking I figured you planned to integrate this almost as a rag to your current pipeline for generating reddit comments where you would 
