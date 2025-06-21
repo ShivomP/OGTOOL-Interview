@@ -39,6 +39,9 @@ It supports:
     - python main.py --team_id test_team --user_id test_user --out test_output.json --blog_indexes https://interviewing.io/blog https://quill.co/blog https://shreycation.substack.com --gdrive_links https://drive.google.com/file/d/1Udr6zhDxF-LEqxti15UAfe-_vriggdRO/view?usp=drive_link --pdfs ./test2.pdf --urls http://interviewing.io/guides/hiring-process/meta-facebook https://interviewing.io/guides/hiring-process/amazon
 - Run the above in your terminal, make sure you are in the root directory of the project
 
+## Functionality Demo
+- https://www.loom.com/share/000e9111b0e44964b6464ea2bf14eff8
+
 ## Questions
 1. What was your thinking process? Why did you build it the way you did?
     After reading the google doc my first impressions of the problem were that I needed to make the web scraper as scalable and reusable as possible. Once I looked at the json format and required fields to return I wasn't quite sure what you expected for the user_id and team_id fields. After some thinking I figured you planned to integrate this almost as a rag to your current pipeline for generating reddit comments where you would 
